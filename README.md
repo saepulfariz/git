@@ -39,10 +39,10 @@ jika untrack add dulu
 ## Revisi GIT
 
 > ### Membatalkan perubahan ( ketika belum git add .)
->
-> ```CLI
-> git checkout nama_file.html
-> ```
+
+```CLI
+git checkout nama_file.html
+```
 
 > ### Membatalkan Perubahan File yang Sudah dalam Kondisi staged
 >
