@@ -129,16 +129,16 @@ git push -u origin master
 https://stackoverflow.com/questions/23401652/fatal-the-current-branch-master-has-no-upstream-branch
 https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github
 
-// buat update
-git pull
-// jika harus login lagi
-git config --list
-// keluar denga :q
-// --local
-git config --global user.name "saepulfariz"
-git config --global user.email "saepulfariz108@gmail.com"
-// text editor
-git config --global core.editor "code -w"
+- // buat update
+- git pull
+- // jika harus login lagi
+- git config --list
+- // keluar denga :q
+- // --local jika local
+- git config --global user.name "saepulfariz"
+- git config --global user.email "saepulfariz108@gmail.com"
+- // text editor
+- git config --global core.editor "code -w"
 
 ## referensi
 
