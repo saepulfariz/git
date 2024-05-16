@@ -146,6 +146,12 @@ git branch -M main
 - git config --global core.editor "code -w"
 - git push // maka akan suruh login ke akun github biar sync git local ama repo nya.
 
+## CredentialHelperSelector
+
+- manager-core // pilih
+- always usethis from now // CEKLIS
+- select
+
 ## referensi
 
 - https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config#:~:text=The%20git%
